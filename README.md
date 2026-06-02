@@ -1,3 +1,4 @@
+<details>
 <summary><h2>en English version</h2></summary>
 
 # 👋 Hello! I'm Foxlynx (GrandFox01)
