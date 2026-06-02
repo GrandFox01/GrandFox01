@@ -1,45 +1,82 @@
-# 👋 Приветствую. Я Foxlynx
+# 👋 Hello! I'm Foxlynx (GrandFox01)
 
-Независимый разработчик и нарративный дизайнер. Специализируюсь на создании иммерсивных игровых миров, визуальных новелл и интерактивных историй. Мой подход сочетает в себе структурное программирование, визуальное проектирование и аудиодизайн.
+Independent developer and narrative designer. I specialize in creating immersive game worlds, visual novels, and interactive stories. My approach combines structural programming, visual design, and audio production.
+
+🇷🇺 *Русская версия ниже / Russian version below*
 
 ---
 
-### 🛠️ Технологический стек и навыки
+### 🛠️ Tech Stack & Skills
 
-| Категория | Инструменты и технологии |
+| Category | Tools |
 | :--- | :--- |
 | **Game Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
-| **Аудиодизайн** | ![FL Studio](https://img.shields.io/badge/FL_Studio-00D9FF?style=flat-square&logo=flstudio&logoColor=black) |
-| **Контроль версий** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Дизайн и Нарратив** | Миростроение (Worldbuilding), Сценарное письмо, Прототипирование интерфейсов |
+| **Audio Design** | ![FL Studio](https://img.shields.io/badge/FL_Studio-00D9FF?style=flat-square&logo=flstudio&logoColor=black) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Design & Narrative** | Worldbuilding, Scriptwriting, UI/UX Prototyping |
 
 ---
+
+### 🎯 Current Focus
+
+Currently developing an original visual novel in **Godot Engine**. The project includes:
+- Original lore and branching narrative design
+- Custom dialogue systems and state machines in GDScript
+- Original soundtrack and sound design in FL Studio
+
+---
+
+### 📂 Featured Projects
+
+- **[Project Name](https://github.com/GrandFox01/repo-name)** — *Brief description (e.g., "Visual novel dialogue system prototype")*
+- **[itch.io Page](https://grandfox01.itch.io)** — *Playable builds and devlogs*
+
+---
+
+### 📬 Contact
+
+Open for constructive discussions, indie dev collaborations, and knowledge sharing. Prefer async communication.
+
+- 📧 **Email**: your.email@example.com
+- ✈️ **Telegram**: [@your_username](https://t.me/your_username)
+- 🎮 **Itch.io**: [grandfox01](https://grandfox01.itch.io)
+
+---
+
+<details>
+<summary><h2>🇷🇺 Русская версия</h2></summary>
+
+### 👋 Приветствую! Я Foxlynx (GrandFox01)
+
+Независимый разработчик и нарративный дизайнер. Специализируюсь на создании иммерсивных игровых миров, визуальных новелл и интерактивных историй.
+
+### 🛠️ Навыки и инструменты
+
+| Категория | Инструменты |
+| :--- | :--- |
+| **Game Dev** | Godot Engine, GDScript |
+| **Аудиодизайн** | FL Studio |
+| **Контроль версий** | Git, GitHub |
+| **Дизайн и нарратив** | Миростроение, сценарное письмо, прототипирование |
 
 ### 🎯 Текущий фокус
 
-В настоящее время я сосредоточен на разработке собственной визуальной новеллы на движке **Godot Engine**. Проект включает в себя:
-- Разработку оригинального лора и ветвящихся сюжетных линий.
-- Написание кастомных систем диалогов и управления состояниями на GDScript.
-- Создание оригинального саундтрека и звукового оформления в FL Studio.
+Разработка визуальной новеллы на **Godot Engine**:
+- Оригинальный лор и ветвящийся сюжет
+- Кастомные системы диалогов на GDScript
+- Саундтрек и звуковое оформление в FL Studio
+
+### 📂 Проекты
+
+- **[Название проекта](ссылка)** — *Описание*
+- **[Страница на itch.io](https://grandfox01.itch.io)** — *Билды и девлоги*
+
+### 📬 Контакты
+
+- 📧 **Email**: your.email@example.com
+- ✈️ **Telegram**: [@your_username](https://t.me/your_username)
+
+</details>
 
 ---
-
-### 📂 Избранные проекты
-
-<!-- Замените ссылки и описания на Ваши реальные проекты -->
-- **[Название проекта 1](https://github.com/GrandFox01/проект-1)** — *Краткое описание: например, "Прототип системы диалогов для визуальной новеллы на Godot".*
-- **[Название проекта 2](https://github.com/GrandFox01/проект-2)** — *Краткое описание: например, "Демонстрация интеграции аудио-треков и управления сценами".*
-- **[Моя страница на itch.io](https://GrandFox01.itch.io)** — *Здесь публикуются играбельные билды и дневники разработки (Devlogs).*
-
----
-
-### 📬 Контакты и связь
-
-Я открыт для конструктивного обсуждения проектов, коллабораций в сфере инди-разработки и обмена опытом. Предпочитаю асинхронную коммуникацию.
-
-- 📧 **Email**: [ваш_email@example.com](mailto:ваш_email@example.com)
-- ✈️ **Telegram**: [@ваш_никнейм](https://t.me/ваш_никнейм)
-- 🎮 **Itch.io**: [ВАШ_ЛОГИН](https://ВАШ_ЛОГИН.itch.io)
-
----
-*Профиль обновлен: Июнь 2026*
+*Last updated: June 2026*
