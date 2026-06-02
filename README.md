@@ -1,13 +1,15 @@
+<div align="center">
+
+# 👋 Welcome to my profile
+
+I'm **Foxlynx** — indie developer crafting worlds through code, narrative, and sound.
+
 <details>
-<summary><h2>en English version</h2></summary>
-
-# 👋 Hello! I'm Foxlynx (GrandFox01)
-
-Independent developer and narrative designer. I specialize in creating immersive game worlds, visual novels, and interactive stories. My approach combines structural programming, visual design, and audio production.
-
-🇷🇺 *Русская версия ниже / Russian version below*
+<summary><b>📂 Click to reveal more</b></summary>
 
 ---
+
+## 🇬🇧 English Version
 
 ### 🛠️ Tech Stack & Skills
 
@@ -18,8 +20,6 @@ Independent developer and narrative designer. I specialize in creating immersive
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Design & Narrative** | Worldbuilding, Scriptwriting, UI/UX Prototyping |
 
----
-
 ### 🎯 Current Focus
 
 Currently developing an original visual novel in **Godot Engine**. The project includes:
@@ -27,18 +27,14 @@ Currently developing an original visual novel in **Godot Engine**. The project i
 - Custom dialogue systems and state machines in GDScript
 - Original soundtrack and sound design in FL Studio
 
----
-
 ### 📂 Featured Projects
 
-- **[Project Name](https://github.com/GrandFox01/repo-name)** — *Brief description (e.g., "Visual novel dialogue system prototype")*
+- **[Project Name](https://github.com/GrandFox01/repo-name)** — *Brief description*
 - **[itch.io Page](https://grandfox01.itch.io)** — *Playable builds and devlogs*
-
----
 
 ### 📬 Contact
 
-Open for constructive discussions, indie dev collaborations, and knowledge sharing. Prefer async communication.
+Open for constructive discussions and indie dev collaborations. Prefer async communication.
 
 - 📧 **Email**: your.email@example.com
 - ✈️ **Telegram**: [@your_username](https://t.me/your_username)
@@ -46,12 +42,7 @@ Open for constructive discussions, indie dev collaborations, and knowledge shari
 
 ---
 
-<details>
-<summary><h2>🇷🇺 Русская версия</h2></summary>
-
-### 👋 Приветствую! Я Foxlynx (GrandFox01)
-
-Независимый разработчик и нарративный дизайнер. Специализируюсь на создании иммерсивных игровых миров, визуальных новелл и интерактивных историй.
+## 🇷🇺 Русская версия
 
 ### 🛠️ Навыки и инструменты
 
@@ -71,15 +62,23 @@ Open for constructive discussions, indie dev collaborations, and knowledge shari
 
 ### 📂 Проекты
 
-- **[Название проекта](ссылка)** — *Описание*
-- **[Страница на itch.io](https://grandfox01.itch.io)** — *Билды и девлоги*
+- **[Название проекта](ссылка)** — *Краткое описание*
+- **[Страница на itch.io](https://grandfox01.itch.io)** — *Играбельные билды и девлоги*
 
 ### 📬 Контакты
 
+Открыт для конструктивного обсуждения и коллабораций. Предпочитаю асинхронную коммуникацию.
+
 - 📧 **Email**: your.email@example.com
 - ✈️ **Telegram**: [@your_username](https://t.me/your_username)
+- 🎮 **Itch.io**: [grandfox01](https://grandfox01.itch.io)
+
+---
 
 </details>
 
----
-*Last updated: June 2026*
+<p align="center">
+<em>Last updated: June 2026</em>
+</p>
+
+</div>
