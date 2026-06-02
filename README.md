@@ -1,3 +1,5 @@
+<summary><h2>en English version</h2></summary>
+
 # 👋 Hello! I'm Foxlynx (GrandFox01)
 
 Independent developer and narrative designer. I specialize in creating immersive game worlds, visual novels, and interactive stories. My approach combines structural programming, visual design, and audio production.
